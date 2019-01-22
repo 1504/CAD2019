@@ -1,3 +1,0 @@
-change holes to 10 32unc
-change slot size on brackets to match bearing size
-attach two sides to eachother
